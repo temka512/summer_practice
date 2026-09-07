@@ -165,23 +165,23 @@
 ![Bubble Sort - память](img/memory_Bubble.png)
 
 #### Selection Sort
-![Selection Sort - время](img/time_Selection.png)
+![Selection Sort - время](img2/time_Selection.png)
 ![Selection Sort - память](img/memory_Selection.png)
 
 #### Insertion Sort
-![Insertion Sort - время](img/time_Insertion.png)
+![Insertion Sort - время](img2/time_Insertion.png)
 ![Insertion Sort - память](img/memory_Insertion.png)
 
 #### Quick Sort
-![Quick Sort - время](img/time_Quick.png)
+![Quick Sort - время](img2/time_Quick.png)
 ![Quick Sort - память](img/memory_Quick.png)
 
 #### Merge Sort
-![Merge Sort - время](img/time_Merge.png)
+![Merge Sort - время](img2/time_Merge.png)
 ![Merge Sort - память](img/memory_Merge.png)
 
 #### Heap Sort
-![Heap Sort - время](img/time_Heap.png)
+![Heap Sort - время](img2/time_Heap.png)
 ![Heap Sort - память](img/memory_Heap.png)
 
 #### Counting Sort
@@ -189,7 +189,7 @@
 ![Counting Sort - память](img/memory_Counting.png)
 
 #### Radix Sort
-![Radix Sort - время](img/time_Radix.png)
+![Radix Sort - время](img2/time_Radix.png)
 ![Radix Sort - память](img/memory_Radix.png)
 
 #### Bucket Sort
@@ -209,7 +209,7 @@
 ![Сравнение памяти на Random](img/memory_comparison_Random.png)
 
 #### Sorted
-![Сравнение времени на Sorted](img/time_comparison_Sorted.png)
+![Сравнение времени на Sorted](img2/time_comparison_Sorted.png)
 ![Сравнение памяти на Sorted](img/memory_comparison_Sorted.png)
 
 #### Reversed
@@ -231,46 +231,46 @@
 ![Bubble на AlmostSorted - время](img/time_Bubble_AlmostSorted_interp.png)
 
 #### Selection Sort
-![Selection на Random - время](img/time_Selection_Random_interp.png)
-![Selection на Sorted - время](img/time_Selection_Sorted_interp.png)
-![Selection на Reversed - время](img/time_Selection_Reversed_interp.png)
-![Selection на AlmostSorted - время](img/time_Selection_AlmostSorted_interp.png)
+![Selection на Random - время](img2/time_Selection_Random_interp.png)
+![Selection на Sorted - время](img2/time_Selection_Sorted_interp.png)
+![Selection на Reversed - время](img2/time_Selection_Reversed_interp.png)
+![Selection на AlmostSorted - время](img2/time_Selection_AlmostSorted_interp.png)
 
 #### Insertion Sort
-![Insertion на Random - время](img/time_Insertion_Random_interp.png)
-![Insertion на Sorted - время](img/time_Insertion_Sorted_interp.png)
-![Insertion на Reversed - время](img/time_Insertion_Reversed_interp.png)
-![Insertion на AlmostSorted - время](img/time_Insertion_AlmostSorted_interp.png)
+![Insertion на Random - время](img2/time_Insertion_Random_interp.png)
+![Insertion на Sorted - время](img2/time_Insertion_Sorted_interp.png)
+![Insertion на Reversed - время](img2/time_Insertion_Reversed_interp.png)
+![Insertion на AlmostSorted - время](img2/time_Insertion_AlmostSorted_interp.png)
 
 #### Quick Sort
-![Quick на Random - время](img/time_Quick_Random_interp.png)
-![Quick на Sorted - время](img/time_Quick_Sorted_interp.png)
-![Quick на Reversed - время](img/time_Quick_Reversed_interp.png)
-![Quick на AlmostSorted - время](img/time_Quick_AlmostSorted_interp.png)
+![Quick на Random - время](img2/time_Quick_Random_interp.png)
+![Quick на Sorted - время](img2/time_Quick_Sorted_interp.png)
+![Quick на Reversed - время](img2/time_Quick_Reversed_interp.png)
+![Quick на AlmostSorted - время](img2/time_Quick_AlmostSorted_interp.png)
 
 #### Merge Sort
-![Merge на Random - время](img/time_Merge_Random_interp.png)
-![Merge на Sorted - время](img/time_Merge_Sorted_interp.png)
-![Merge на Reversed - время](img/time_Merge_Reversed_interp.png)
-![Merge на AlmostSorted - время](img/time_Merge_AlmostSorted_interp.png)
+![Merge на Random - время](img2/time_Merge_Random_interp.png)
+![Merge на Sorted - время](img2/time_Merge_Sorted_interp.png)
+![Merge на Reversed - время](img2/time_Merge_Reversed_interp.png)
+![Merge на AlmostSorted - время](img2/time_Merge_AlmostSorted_interp.png)
 
 #### Heap Sort
-![Heap на Random - время](img/time_Heap_Random_interp.png)
-![Heap на Sorted - время](img/time_Heap_Sorted_interp.png)
-![Heap на Reversed - время](img/time_Heap_Reversed_interp.png)
-![Heap на AlmostSorted - время](img/time_Heap_AlmostSorted_interp.png)
+![Heap на Random - время](img2/time_Heap_Random_interp.png)
+![Heap на Sorted - время](img2/time_Heap_Sorted_interp.png)
+![Heap на Reversed - время](img2/time_Heap_Reversed_interp.png)
+![Heap на AlmostSorted - время](img2/time_Heap_AlmostSorted_interp.png)
 
 #### Counting Sort
-![Counting на Random - время](img/time_Counting_Random_interp.png)
-![Counting на Sorted - время](img/time_Counting_Sorted_interp.png)
-![Counting на Reversed - время](img/time_Counting_Reversed_interp.png)
-![Counting на AlmostSorted - время](img/time_Counting_AlmostSorted_interp.png)
+![Counting на Random - время](img2/time_Counting_Random_interp.png)
+![Counting на Sorted - время](img2/time_Counting_Sorted_interp.png)
+![Counting на Reversed - время](img2/time_Counting_Reversed_interp.png)
+![Counting на AlmostSorted - время](img2/time_Counting_AlmostSorted_interp.png)
 
 #### Radix Sort
-![Radix на Random - время](img/time_Radix_Random_interp.png)
-![Radix на Sorted - время](img/time_Radix_Sorted_interp.png)
-![Radix на Reversed - время](img/time_Radix_Reversed_interp.png)
-![Radix на AlmostSorted - время](img/time_Radix_AlmostSorted_interp.png)
+![Radix на Random - время](img2/time_Radix_Random_interp.png)
+![Radix на Sorted - время](img2/time_Radix_Sorted_interp.png)
+![Radix на Reversed - время](img2/time_Radix_Reversed_interp.png)
+![Radix на AlmostSorted - время](img2/time_Radix_AlmostSorted_interp.png)
 
 #### Bucket Sort
 ![Bucket на Random - время](img/time_Bucket_Random_interp.png)
